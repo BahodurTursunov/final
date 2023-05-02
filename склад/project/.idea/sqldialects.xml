@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/заказ.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/категория.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/категория_товара.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/клиент.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/корзина.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/поставка.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/поставщик.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/состав_поставки.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/сотрудник.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/товар.sql" dialect="PostgreSQL" />
+  </component>
+</project>
